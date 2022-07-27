@@ -81,7 +81,7 @@ main {
   background-position: right -12rem bottom -8rem;
 }
 
-@media (min-width: theme("screens.xl")) {
+@media (min-width: theme("screens.lg")) {
   body {
     background-size: 50%;
     background-position: top -15rem left -4rem;
